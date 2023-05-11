@@ -16,5 +16,6 @@ public class HelloWorld { //RICORDARSI DI CAMBIARE NOME CLASSE
 
   public static void main(String[] args) { // il metodo main è il punto di partenza dell'esecuzione del programma
     System.out.println("bellaaaaaa"); // stampa "Hello, world!" nella console
+    System.out.println("ciao mondo");
   }
 }
